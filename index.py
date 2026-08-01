@@ -2,22 +2,6 @@
 =========================================================
 Gaza Freelancer AI Adoption Analysis
 MSc Social Data Science — Oxford Internet Institute
-=========================================================
-
-Research Question:
-Does the adoption of Generative AI tools reduce the wage gap
-between Gaza-based freelancers and comparable freelancers in
-unrestricted labour markets?
-
-Hypotheses:
-H1: AI tools increase competitiveness through two channels:
-    (a) higher productivity (Q11) and (b) higher earnings (Q10)
-H2: Gaza freelancers report lower earnings and fewer projects
-    than comparable freelancers in less constrained markets
-H3: Among Gaza freelancers, more intensive AI use is associated
-    with smaller gaps in earnings, productivity, and competitiveness
-
-=========================================================
 """
 
 import pandas as pd
