@@ -1,7 +1,13 @@
 """
-=========================================================
+
 Gaza Freelancer AI Adoption Analysis
 MSc Social Data Science — Oxford Internet Institute
+
+===========================================================================================================
+Note: The survey data are not included in the repository 
+and are stored securely under the approved CUREC protocol, 
+with access restricted to the researcher and supervisor.
+
 """
 
 import pandas as pd
